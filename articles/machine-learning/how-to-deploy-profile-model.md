@@ -16,7 +16,7 @@ ms.custom: deploy
 
 # Profile your model to determine resource utilization
 
-This article shows how to profile a machine learning to model to determine how much CPU and memory you will need to allocate for the model when deploying it as a web service.
+This article shows how to profile a machine learning model to determine how much CPU and memory you will need to allocate for the model when deploying it as a web service.
 
 ## Prerequisites
 
